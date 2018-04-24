@@ -10,7 +10,7 @@ package Clases;
  * @author Cristian
  */
 public class Cliente extends Persona {
-
+//cristian cuero
     private String email;
     private long telefono;
     private TipoCliente tipo_cliente;
